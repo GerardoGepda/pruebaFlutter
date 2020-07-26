@@ -72,7 +72,7 @@ class MyApp extends StatelessWidget {
 
 
     return MaterialApp(
-      title: 'Flutter layout demo',
+      title: 'Flutter demo de Layout',
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
